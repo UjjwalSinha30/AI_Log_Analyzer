@@ -3,3 +3,4 @@ uvicorn
 anthropic
 python-multipart
 pydantic
+mysql-connector-python
